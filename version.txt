@@ -1,0 +1,48 @@
+version.txt
+SeLVi@LAPTOP-KAF619CF MINGW64 ~/Desktop/Dave_07_25 (main)
+$ git log
+commit bcd002f10d74ee9b57cff434ff460603d610a183 (HEAD -> main, Dave/main, Dave/HEAD)
+Merge: 30178cd 3ec4c5f
+Author: AnakBaik29 <davesitorus29@gmail.com>
+Date:   Tue Jul 25 15:20:52 2023 +0700
+
+    Merge branch 'branch_register'
+    ini marge register
+
+commit 3ec4c5fd2ff977f1db3cb7c1f3c3dc0758f500d0
+Author: AnakBaik29 <davesitorus29@gmail.com>
+Date:   Tue Jul 25 15:17:44 2023 +0700
+
+    register page
+
+commit 30178cdd60024d5959b8eafdfbb9f85bbdaa19c8
+Merge: d02ae1b 5647c62
+Author: AnakBaik29 <davesitorus29@gmail.com>
+Date:   Tue Jul 25 15:11:19 2023 +0700
+
+    Merge branch 'branch_login'
+    mengabungkan file login
+
+commit 5647c625a966bcf9ab5ae0b073cae50073ada860
+Author: AnakBaik29 <davesitorus29@gmail.com>
+Date:   Tue Jul 25 15:10:13 2023 +0700
+
+    login page
+
+commit d02ae1bf3f37ab11d93e7e96b562839c4da2fcc3
+Author: AnakBaik29 <davesitorus29@gmail.com>
+Date:   Tue Jul 25 14:29:21 2023 +0700
+
+    mengedit dashboard.html~
+
+commit 05cfab590e8e626b8093bda55197d9854754a408
+Author: AnakBaik29 <davesitorus29@gmail.com>
+Date:   Tue Jul 25 14:22:17 2023 +0700
+
+    Menambahkan dashboard.html~
+
+commit 580fd47dc0bef0036da4535a1f0ee42246dcc132
+Author: DaveNathanael <128437337+AnakBaik29@users.noreply.github.com>
+Date:   Tue Jul 25 13:14:39 2023 +0700
+
+    Initial commit
